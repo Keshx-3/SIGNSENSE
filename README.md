@@ -21,18 +21,7 @@ SignSense is designed to empower the speech and hearing-impaired community by fa
 
 ![image](https://github.com/user-attachments/assets/eb7958ee-6e47-4e6c-b3d8-2612b10c3f10)
 
-
-## Installation
-
-To run this project locally, follow these steps:
-
 ## Output
 
 ![Screenshot 2024-03-25 070016](https://github.com/user-attachments/assets/ebc97b20-1742-46c3-8f1d-eac108ed87a5)
 ![Screenshot 2024-03-25 070150](https://github.com/user-attachments/assets/afa67835-b103-45fc-a39d-c2226854d4b4)
-
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/YourUsername/Sign-Sense.git
-   cd Sign-Sense
