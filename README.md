@@ -17,6 +17,11 @@ SignSense is designed to empower the speech and hearing-impaired community by fa
 - **Chatbot**: OpenAI API Integration
 - **Libraries**: OpenCV, MediaPipe, TensorFlow
 
+## Architecture
+
+![image](https://github.com/user-attachments/assets/eb7958ee-6e47-4e6c-b3d8-2612b10c3f10)
+
+
 ## Installation
 
 To run this project locally, follow these steps:
