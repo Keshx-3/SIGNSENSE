@@ -1,6 +1,7 @@
 # Sign Sense: Sign Language Translation 
 
-**Sign Sense** is a desktop application designed to assist users in translating between spoken language and Indian sign language. The application offers both a translation tool and a chatbot that helps users clarify any doubts regarding sign language using OpenAI's API.
+**Sign Sense** is a system that converts Indian Sign Language (ISL) to text and vice versa across various regional languages. 
+SignSense is designed to empower the speech and hearing-impaired community by facilitating seamless communication in their native languages.
 
 ## Features
 
@@ -14,7 +15,7 @@
 - **Frontend**: Tkinter (Python)
 - **Backend**: CNN (Convolutional Neural Network), TensorFlow, Keras, PyAudio, Speech Recognition, PIL (Python Imaging Library)
 - **Chatbot**: OpenAI API Integration
-- **Libraries**: OpenCV, MediaPipe
+- **Libraries**: OpenCV, MediaPipe, TensorFlow
 
 ## Installation
 
